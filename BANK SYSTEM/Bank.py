@@ -32,7 +32,7 @@ class Bank:
                  f"'{amount}'"
                  f") ")
         
-        print(f"{self.__Username} Amount is Sucessfully Depositted intO your Account {self.__account_number} ")
+        print(f"{self.__Username} Amount is Sucessfully Depositted into your Account {self.__account_number} ")
 
     # ---------------- withdraw ------------------
     def withdraw(self, amount):
