@@ -5,14 +5,15 @@ A simple console-based banking system built in Python that allows users to sign 
 
 # ✨ Features
 
-✅ User login & registration
-✅ Strong password validation
-✅ Balance enquiry, deposit, withdraw, fund transfer
-✅ Each banking operation shows confirmation
-✅ Instant feedback on actions
-✅ Menu remains visible while previous outputs clear
-✅ Smooth, professional terminal UI
-✅ Track account transactions (optional per user)
+- ✅ User login & registration
+-✅ Strong password validation
+-✅ Balance enquiry, deposit, withdraw, fund transfer
+-✅ Each banking operation shows confirmation
+-✅ Instant feedback on actions
+-✅ Menu remains visible while previous outputs clear
+-✅ Smooth, professional terminal UI
+-✅ Track account transactions (optional per user)
+---
 
 # ⚡ How It Works
 
